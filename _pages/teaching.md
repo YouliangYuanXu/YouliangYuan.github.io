@@ -3,19 +3,18 @@ permalink: /teaching/
 title: ""
 ---
 
-# At CUHK-SZ
+# @CUHK-SZ
 
-## Current
+<!-- ## Current -->
 
 ## Planned
-- Pol Sci 3090: The Scientific Study of Civil War (Spring 2020)
-- Pol Sci 3171: International Conflict Management & Resolution (Fall 2019)
+- CSC1001 Intro to CS: Programming Methodology (Fall 2021)
+- CSC4001 Software Engineering (Spring 2022)
 
-## Past
+<!-- ## Past -->
 
 
-# At ETH Zurich
-
+# @ETH Zurich
 ## Instructor
 
 ## Teaching Assistant
@@ -23,8 +22,7 @@ title: ""
 - Poli 891: Lab for Advanced Topics in Political Data Science (Fall 2017, Fall 2018)
 
 
-# At CUHK
-
+# @CUHK
 ## Teaching Assistant
 - Introduction to Applied Bayesian Modeling (Summer 2017)
 
