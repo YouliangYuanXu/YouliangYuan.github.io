@@ -17,11 +17,13 @@ title: ""
 
 # @ETH Zurich
 ## Instructor
+- 263-2100-00L [Research Topics in Software Engineering](https://people.inf.ethz.ch/suz/teaching/263-2100-s20.html) (Spring 2020)
 
 ## Teaching Assistant
-- Poli 281: Quantitative Research in Political Science (Spring 2019)
-- Poli 891: Lab for Advanced Topics in Political Data Science (Fall 2017, Fall 2018)
+- [Software Engineering Seminar](http://lec.inf.ethz.ch/seminars/2019/ses/) (Fall 2019)
+- [Research Topics in Software Engineering] (Fall 2019)
 
+<br/><br/>
 
 # @CUHK
 ## Teaching Assistant
