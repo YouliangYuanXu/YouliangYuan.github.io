@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,23 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Postdoctoral Research Fellow in the
-[Weidenbaum Center on the Economy, Government, and Public Policy](https://wc.wustl.edu/) 
-and [Department of Political Science](https://polisci.wustl.edu/) at
-[Washington University in St. Louis](https://wustl.edu/). I am also an
-affiliated researcher with the
-[Data-driven Analysis of Peace Project](https://dapp-lab.org) lab. I specialize
-in International Relations and Political Methodology. I earned my Ph.D in
-Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu/) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu/).
+About Me
+======
+Pinjia He is a postdoctoral scholar in the Department of Computer Science at [ETH Zurich](https://ethz.ch/en.html), mentored by Prof. [Zhendong Su](http://web.cs.ucdavis.edu/~su/). He received his Ph.D. in Computer Science and Engineering from [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), supervised by Prof. [Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/home). He received a B.E. in Computer Science and Technology from [South China University of Technology](https://www.scut.edu.cn/en/).
 
-My work has been [published](publications) in
-*International Studies Quarterly*, *Conflict Management and Peace Science*, and
-*Political Science Research and Methods*, among other outlets.
-My [research](research) explores the causes and consequences of political
-violence using a broad variety of methods such as latent variable models,
-geospatial analysis, and big data. While I primarily focus on civil conflict, I
-also examine contentious political phenomena including terrorism and economic
-statecraft. I have [teaching](teaching) experience in both international
-relations and quantitative methodology.
+His research spans software engineering, programming languages, natural language processing, deep learning and blockchain. He is mainly known for his research on [testing AI software](https://github.com/RobustNLP) and [AIOps](https://github.com/logpai).  His work has received a [Most Influential Paper Award](https://2021.issre.net/node/33) at ISSRE. His work has been starred [2,000+](https://github.com/logpai) times on GitHub, downloaded [40,000+](https://zenodo.org/record/3227177#.YNisIDb7S-a) times by [380+](https://github.com/logpai/loghub/wiki/Loghub) organizations and well recognized by industry (such as [IBM](https://developer.ibm.com/blogs/how-mining-log-templates-can-help-ai-ops-in-cloud-scale-data-centers/)).
+
+He served on the artifact evaluation committees of [OOPSLA 2021](https://2021.splashcon.org/track/splash-2021-Artifacts), [ECOOP 2021](https://2021.ecoop.org/committee/ecoop-2021-ecoop-artifacts-artifact-evaluation-committee), [ECOOP 2020](https://2020.ecoop.org/committee/ecoop-2020-artifacts-artifact-evaluation-committee), and [ASE 2019](https://2019.ase-conferences.org/track/ase-2019-Demonstrations?track=ASE%20Demonstrations), the program committees of [DSML 2021](https://dependablesecureml.github.io/) and [MET 2021](http://metwiki.net/MET21/index.html). He frequently serves as subreviewers of top conferences (such as ICSE, FSE, ASE, ISSTA, DSN, and KDD) and reviewers of top journals (such as TSE, TOSEM, CSUR, EMSE, TDSC, and TKDE).
