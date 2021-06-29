@@ -14,7 +14,7 @@ title: "Services"
 
 <!-- ## Past -->
 
-<br/>
+<!-- <br/> -->
 
 ## Reviewer
 - IEEE Transactions on Software Engineering (TSE)
@@ -30,7 +30,7 @@ title: "Services"
 - Computers & Security (COSE)
 - Software Testing, Verification and Reliability (STVR)
 
-<br/>
+<!-- <br/> -->
 
 ## External Reviewer
 - International Conference on Software Engineering (ICSE)
