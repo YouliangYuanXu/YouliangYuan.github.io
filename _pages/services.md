@@ -1,5 +1,5 @@
 ---
-permalink: /teaching/
+permalink: /services/
 title: "Services"
 ---
 
