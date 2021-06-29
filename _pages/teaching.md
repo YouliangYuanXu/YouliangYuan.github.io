@@ -22,7 +22,7 @@ title: "Teaching"
 ### Teaching Assistant
 - 252-3005-00L [Natural Language Processing](https://rycolab.io/classes/intro-nlp-f20/) (Fall 2020)
 - 263-2100-00L [Research Topics in Software Engineering](https://www.sri.inf.ethz.ch/teaching/ses2020) (Fall 2020)
-- 252-0216-00L [Rigorous Software Engineerin](https://lec.inf.ethz.ch/rse/2020/) (Spring 2020)
+- 252-0216-00L [Rigorous Software Engineering](https://lec.inf.ethz.ch/rse/2020/) (Spring 2020)
 - 252-2600-05L [Software Engineering Seminar](http://lec.inf.ethz.ch/seminars/2019/ses/) (Fall 2019)
 - 263-2100-00L [Research Topics in Software Engineering](https://acl.inf.ethz.ch/teaching/master-seminar/2019/) (Fall 2019)
 - 252-0216-00L [Rigorous Software Engineering](https://people.inf.ethz.ch/suz/teaching/252-0216.html) (Spring 2019)
