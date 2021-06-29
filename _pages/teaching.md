@@ -3,11 +3,11 @@ permalink: /teaching/
 title: ""
 ---
 
-# @CUHK-SZ
+## @CUHK-SZ
 
 <!-- ## Current -->
 
-## Planned
+### Planned
 - CSC1001 Intro to CS: Programming Methodology (Fall 2021)
 - CSC4001 Software Engineering (Spring 2022)
 
