@@ -8,7 +8,7 @@ Our group is broadly interested in software engineering, programming languages, 
 Our group has open positions for **PhD students, postdocs, research assistants, and visitors**. If you are interested in our group, please drop me an email.
 
 
-<br/>
+<!-- <br/> -->
 
 ## Current
 ### PhD Students
@@ -18,7 +18,7 @@ Our group has open positions for **PhD students, postdocs, research assistants, 
 - Rohan Parag Shah (Undergraduate, with Zhendong Su)
 
 
-<br/>
+<!-- <br/> -->
 
 ## Alumni
 - Clara Meister (Research assistant, with Zhendong Su, 01.2019 -- 02.2020)
