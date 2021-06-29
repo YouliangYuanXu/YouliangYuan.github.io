@@ -1,6 +1,6 @@
 ---
 permalink: /teaching/
-title: ""
+title: "Teaching"
 ---
 
 ## @CUHK-SZ
@@ -13,7 +13,7 @@ title: ""
 
 <!-- ## Past -->
 
-<br/><br/>
+<br/>
 
 # @ETH Zurich
 ## Instructor
