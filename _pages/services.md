@@ -3,7 +3,7 @@ permalink: /services/
 title: "Services"
 ---
 
-## Committe Member
+## Committee Member
 - International Conference on Object-Oriented Programming Systems, Languages, and Applications (OOPSLA), Artifact Evaluation, 2021
 - European Conference on Object-Oriented Programming (ECOOP), Artifact Evaluation, 2021
 - Workshop on Dependable and Secure Machine Learning (DSML), co-located with DSN, Program Committee, 2021
