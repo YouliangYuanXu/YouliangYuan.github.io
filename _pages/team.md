@@ -2,7 +2,6 @@
 permalink: /team/
 title: ""
 ---
-
 ## Prospective Students
 Our group has open positions for PhD students, postdocs, research assistants, and visitors. If you are interested in our group, please drop me an email.
 
