@@ -1,5 +1,5 @@
 ---
-title: "Experience Report: System Log Analysis for Anomaly Detection
+title: "Experience Report: System Log Analysis for Anomaly Detection"
 collection: publications
 permalink: /publication/2016-ISSRE
 date: 2016-06-28
