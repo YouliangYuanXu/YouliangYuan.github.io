@@ -13,7 +13,7 @@ title: "Teaching"
 
 <!-- ## Past -->
 
-<!-- <br/> -->
+<br/>
 
 ## @ETH Zurich
 ### Instructor
@@ -28,7 +28,7 @@ title: "Teaching"
 - 252-0216-00L [Rigorous Software Engineering](https://people.inf.ethz.ch/suz/teaching/252-0216.html) (Spring 2019)
 - 263-2100-00L [Research Topics in Software Engineering](https://people.inf.ethz.ch/suz/teaching/263-2100.html) (Fall 2018)
 
-<br/><br/>
+<br/>
 
 ## @CUHK
 ### Teaching Assistant
