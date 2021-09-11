@@ -84,13 +84,13 @@ analytics:
 author:
   name             : "Pinjia He"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral fellow at ETH Zurich. Incoming assistant professer at CUHK-SZ."
-  location         : "Zurich, Switzerland"
+  bio              : "Assistant professer at CUHK-SZ."
+  location         : "Shenzhen, China"
   employer         :
   pubmed           :
   orcid            : 
   googlescholar    : "https://scholar.google.com/citations?user=vg0moI0AAAAJ&hl=en"
-  email            : "pinjia.he@inf.ethz.ch"
+  email            : "hepinjia@cuhk.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
