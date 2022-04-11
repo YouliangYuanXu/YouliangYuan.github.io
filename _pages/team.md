@@ -16,9 +16,9 @@ Our group has open positions for **PhD students, postdocs, research assistants, 
 
 ### PhD Students
 - Boxi Yu
+  - Publications: \[[ISSTA22](/files/pdf/research/ISSTAa.pdf)\] 
 
-### Visiting Scholars
-- Rohan Parag Shah (Undergraduate, with Zhendong Su)
+
 
 
 <!-- <br/> -->
@@ -27,6 +27,7 @@ Our group has open positions for **PhD students, postdocs, research assistants, 
 - Clara Meister (Research assistant, with Zhendong Su, 01.2019 -- 02.2020)
   - Publications: \[[ICSE21](/files/pdf/research/ICSE21.pdf)\]\[[FSE20](/files/pdf/research/ESECFSE20.pdf)\]\[[ICSE20](/files/pdf/research/ICSE20.pdf)\] 
   - Current employment: PhD student, ETH Zurich
+- Rohan Parag Shah (Undergraduate intern, with Zhendong Su, 2020)
 - Shashij Gupta (Undergraduate intern, with Zhendong Su, 09.05.2019 -- 14.07.2019)
   - Publications: \[[FSE20](/files/pdf/research/ESECFSE20.pdf)\]\[[ICSE20 SRC](/files/pdf/research/ICSE20SRC.pdf)\]
   - Awards: [2nd Prize in ACM Student Research Competition](https://src.acm.org/winners/2021)
