@@ -17,13 +17,20 @@ Our group has open positions for **PhD students, postdocs, research assistants, 
 ### Postdoc
 - Zhijing Li
 
-### PhD Students
+### PhD Student
 - Boxi Yu (2021.9 - )
   - Publications: \[[ISSTA22](/files/pdf/research/ISSTAa.pdf)\] 
 - Youliang Yuan (2022.9 - )
 - Junjielong Xu (2022.9 - )
 
+### Research Assistant
+- Yusheng Huang
 
+### Undergrads
+- Jiayi Yao: \[[ISSTA22](/files/pdf/research/ISSTAa.pdf)\]
+- Zhiqing Zhong: \[[ISSTA22](/files/pdf/research/ISSTAa.pdf)\]
+- Ruichun Yang
+- Zhijun Huang
 
 
 <!-- <br/> -->
