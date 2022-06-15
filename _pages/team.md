@@ -32,8 +32,8 @@ Our group has open positions for **PhD students, postdocs, research assistants, 
 - Yusheng Huang
 
 ### Undergrads
-- Jiayi Yao: \[[ISSTA22](/files/pdf/research/ISSTAa.pdf)\] | Internship at Huawei
-- Zhiqing Zhong: \[[ISSTA22](/files/pdf/research/ISSTAa.pdf)\] | Internship at Huawei
+- Jiayi Yao: \[[ISSTA22](/files/pdf/research/ISSTAa.pdf)\]; Internship at Huawei
+- Zhiqing Zhong: \[[ISSTA22](/files/pdf/research/ISSTAa.pdf)\]; Internship at Huawei
 - Ruichun Yang: Internship at Huawei
 - Zhijun Huang: Internship at Huawei
 
