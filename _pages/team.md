@@ -41,11 +41,13 @@ Our group has open positions for **PhDs, MPhils, postdocs, research assistants, 
 <!-- <br/> -->
 
 ## Alumni
-- Clara Meister (Research assistant, with Zhendong Su, 01.2019 -- 02.2020)
+
+### Former Research Assistants
+- Qijing Shen (Summer 2021, next: University of Oxford PhD)
+- Clara Meister (01.2019 -- 02.2020, coadvised by Zhendong Su, next: ETH Zurich PhD)
   - Publications: \[[ICSE21](/files/pdf/research/ICSE21.pdf)\]\[[FSE20](/files/pdf/research/ESECFSE20.pdf)\]\[[ICSE20](/files/pdf/research/ICSE20.pdf)\] 
-  - Current employment: PhD student, ETH Zurich
-- Rohan Parag Shah (Undergraduate intern, with Zhendong Su, 2020)
-- Shashij Gupta (Undergraduate intern, with Zhendong Su, 09.05.2019 -- 14.07.2019)
+- Rohan Parag Shah (Winter 2020, coadvised by Zhendong Su, next: CMU Master)
+- Shashij Gupta (Summer 2019, coadvised by Zhendong Su, next: Edverhub Founder)
   - Publications: \[[FSE20](/files/pdf/research/ESECFSE20.pdf)\]\[[ICSE20 SRC](/files/pdf/research/ICSE20SRC.pdf)\]
   - Awards: [2nd Prize in ACM Student Research Competition](https://src.acm.org/winners/2021)
 
