@@ -3,9 +3,7 @@ permalink: /team/
 title: "Team"
 ---
 ## Prospective Students
-Our group is broadly interested in software engineering, programming languages and compilers, natural language processing, and deep learning. Our work is published routinely in the best venues, but more importantly, our work strives for elegance and impact, both conceptual and practical. I am always excited to recruit excellent applicants who (1) share our research style and vision, (2) have solid background in pertinent areas, and (3) are interested in working at the intersection of theory and practice.
-
-Our group has open positions for **PhDs, MPhils, postdocs, research assistants, and visitors**. If you are interested in our group, please drop me an email.
+Our group is broadly interested in software engineering, programming languages and compilers, systems, and natural language processing. Our work is published routinely in the best venues, but more importantly, our work strives for elegance and impact, both conceptual and practical. Our group has open positions for **PhDs, MPhils, postdocs, research assistants, and visitors**. If you are interested in our group, please drop me an email.
 
 **CUHK-SZ Undergrads:** Our team is happy to work with excellent undergraduate students. Under SE/PL/NLP, we have possible research topics ranging from software/system building, empirical investigations, to algorithmic and theoretical explorations. Interested students are encouraged to contact me for details. To help match you with suitable projects and mentors, please share your general interests, a copy of your recent resume/CV, copies of your transcripts, and any other relevant information.
 
