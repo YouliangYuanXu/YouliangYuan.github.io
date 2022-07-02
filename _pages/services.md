@@ -3,37 +3,40 @@ permalink: /services/
 title: "Services"
 ---
 
-## Committee Member
-- Symposium on Principles of Programming Languages (POPL), Artifact Evaluation, 2022
-- International Conference on Object-Oriented Programming Systems, Languages, and Applications (OOPSLA), Artifact Evaluation, 2021
-- European Conference on Object-Oriented Programming (ECOOP), Artifact Evaluation, 2021
-- Workshop on Dependable and Secure Machine Learning (DSML), co-located with DSN, Program Committee, 2021
-- International Workshop on Metamorphic Testing (MET), co-located with ICSE, Program Committee, 2021
-- European Conference on Object-Oriented Programming (ECOOP), Artifact Evaluation, 2020
-- International Conference on Automated Software Engineering (ASE), Demo, 2019
+## Program Committees
+- 2023: ESEC/FSE, [SANER](https://saner2023.must.edu.mo/programCommittee)
+- 2022: [ISSRE](https://issre2022.github.io/committee_research-PC.html), [AISTA](http://metwiki.net/MET22/committee.html)
+- 2021: [MET](http://metwiki.net/MET21/committee.html), [DSML](https://dependablesecureml.github.io/2021/committee.html), [AISTA](https://conf.researchr.org/track/aista-2021/ecoop-issta-2021-aista#event-overview)
+- 2019: [ASE Demo](https://2019.ase-conferences.org/track/ase-2019-Demonstrations)
+
+## Artifact Evaluation Committees
+- 2022: [OOPSLA](https://2022.splashcon.org/track/splash-2022-oopsla) (External Review Committee), [POPL](https://popl22.sigplan.org/track/POPL-2022-artifact-evaluation)
+- 2021: [OOPSLA](https://2021.splashcon.org/track/splash-2021-Artifacts), [ECOOP](https://2021.ecoop.org/track/ecoop-2021-ecoop-artifacts)
+- 2020: [ECOOP](https://2020.ecoop.org/track/ecoop-2020-artifacts)
 
 
 <!-- ## Past -->
 
 <!-- <br/> -->
 
-## Reviewer
-- IEEE Transactions on Software Engineering (TSE)
-- ACM Transactions on Software Engineering and Methodology (TOSEM)
-- Empirical Software Engineering (EMSE)
-- ACM Computing Surveys (CSUR)
-- IEEE Transactions on Dependable and Secure Computing (TDSC)
-- IEEE Transactions on Knowledge and Data Engineering (TKDE)
-- Journal of Systems and Software (JSS)
-- Journal of Computer Science and Technology (JCST)
-- IEEE Transactions on Systems, Man and Cybernetics: Systems (SMCA)
-- Information and Software Technology (IST)
-- Computers & Security (COSE)
-- Software Testing, Verification and Reliability (STVR)
+## Transaction/Journal
+- Distinguished Reviewer Board: ACM Transactions on Software Engineering and Methodology (TOSEM)
+- Reviewer: IEEE Transactions on Software Engineering (TSE)
+- Reviewer: Empirical Software Engineering (EMSE)
+- Reviewer: ACM Computing Surveys (CSUR)
+- Reviewer: IEEE Transactions on Dependable and Secure Computing (TDSC)
+- Reviewer: IEEE Transactions on Knowledge and Data Engineering (TKDE)
+- Reviewer: Journal of Systems and Software (JSS)
+- Reviewer: Journal of Computer Science and Technology (JCST)
+- Reviewer: IEEE Transactions on Systems, Man and Cybernetics: Systems (SMCA)
+- Reviewer: Information and Software Technology (IST)
+- Reviewer: Computers & Security (COSE)
+- Reviewer: Software Testing, Verification and Reliability (STVR)
+- Reviewer: Journal of Software: Evolution and Process (JSME)
 
 <!-- <br/> -->
 
-## External Reviewer
+## Other Service Activities
 - International Conference on Software Engineering (ICSE)
 - International Symposium on Software Testing and Analysis (ISSTA)
 - International Conference on Dependable Systems and Networks (DSN)
