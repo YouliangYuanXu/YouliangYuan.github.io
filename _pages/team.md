@@ -10,7 +10,6 @@ Our group is broadly interested in software engineering, programming languages a
 **Good Advices for Research Students:**<br>
 [How to Read a Paper?](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)<br>
 [Tips on Writing a Research Paper](https://www.pldi21.org/prerecorded_plmw.2.html)<br>
-[研究生导师：这种学生，才是我眼中的科研好苗子！(in Chinese)](https://mp.weixin.qq.com/s/6iuRur-8BvRheV8GylPRxQ)
 
 <!-- To get an idea of our recent research activities, please take a look at our [publications](https://dblp.org/pers/hd/h/He:Pinjia) and various projects, such as the [LogPAI project](https://github.com/logpai) and [Machine translation testing project](https://github.com/RobustNLP/TestTranslation). -->
 
@@ -21,19 +20,21 @@ Our group is broadly interested in software engineering, programming languages a
 - Zhijing Li
 
 ### PhD Student
-- Boxi Yu (2021.9 - )
+- Boxi Yu
   - Publications: \[[ISSTA22](/files/pdf/research/ISSTAa.pdf)\] 
-- Youliang Yuan (2022.9 - )
-- Junjielong Xu (2022.9 - )
+- Youliang Yuan
+- Junjielong Xu
 
 ### Research Assistant
 - Yusheng Huang
 
 ### Undergrads
-- Jiayi Yao: \[[ISSTA22](/files/pdf/research/ISSTAa.pdf)\]; Internship at Huawei
-- Zhiqing Zhong: \[[ISSTA22](/files/pdf/research/ISSTAa.pdf)\]; Internship at Huawei
-- Ruichun Yang: Internship at Huawei
-- Zhijun Huang: Internship at Huawei
+- Zhijun Huang
+- Ruichun Yang
+- Jiayi Yao: \[[ISSTA22](/files/pdf/research/ISSTAa.pdf)\], UIUC Summer Research
+- Zhiqing Zhong: \[[ISSTA22](/files/pdf/research/ISSTAa.pdf)\]
+
+
 
 
 <!-- <br/> -->
