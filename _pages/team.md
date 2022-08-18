@@ -30,7 +30,9 @@ Our group is broadly interested in software engineering, programming languages a
 
 ### Undergrads
 - Zhijun Huang
+- Jiaqi Li
 - Ruichun Yang
+- Yixing Yang
 - Jiayi Yao: \[[ISSTA22](/files/pdf/research/ISSTAa.pdf)\], UIUC Summer Research
 - Zhiqing Zhong: \[[ISSTA22](/files/pdf/research/ISSTAa.pdf)\]
 
